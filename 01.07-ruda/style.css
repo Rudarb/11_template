@@ -1,0 +1,62 @@
+*{padding: 2%;
+margin: 0%;
+border: 3px;
+ margin-right: -1%;
+}
+
+h1{color:aquamarine ;
+font-size: 50px;
+
+}
+
+header{background-image: url(img/fff.jpg);
+    width: 90%;
+    height: 360px
+}
+
+body{
+    background-color: burlywood;
+}
+
+img {
+    width: 85%;
+}
+
+footer{background-color: darkgray;
+    padding: 3%;
+    color: white;
+    display: flex; 
+    margin-left: -5%;   
+}
+
+ 
+
+
+footer img{
+    width: 40vh;
+}
+h4{font-size: 20px;}
+
+button{background-color: black;
+color: aliceblue;
+width: 30%;
+}
+
+footer ul{list-style: none; display: flex; margin-left: -2%;}
+ul{list-style: none;}
+
+p{ color: black;}
+a{color: currentColor; text-decoration: none;}
+a:hover{ color: aqua;}
+
+
+footer ul li:first-child { color: blue;}
+footer ul li:last-child { color: springgreen;}
+footer ul li:first-child p{color: chocolate;}
+footer ul li:last-child p{ color: mediumorchid;}
+main ul li:first-child p{color: darkred;}
+main ul li:last-child p{color: blue;}
+footer ul li:first-child button{color: violet;}
+footer ul li:last-child button{color: lightslategrey;}
+footer ul li:first-child a:hover{color: chartreuse;}
+footer ul li:last-child a:hover{color: tomato;}
